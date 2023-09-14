@@ -1,7 +1,4 @@
-# calculadora_imc_appfor (var i = 0; i < periodo; i++)
-{
-valorFinal *= (1 + taxaJuros);
-}
+# calculadora_imc_app
 
 Uma aplicacao para calcular o IMC do usuario
 

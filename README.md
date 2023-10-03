@@ -1,6 +1,6 @@
 # calculadora_imc_app
 
-Uma aplicacao para calcular o IMC do usuario
+Uma aplicacao para calcular o IMC do usuario com persistencia de dados locais.
 
 ## Getting Started
 
